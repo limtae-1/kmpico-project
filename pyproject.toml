@@ -1,6 +1,6 @@
 [project]
 name = "kmpico"
-version = "0.1.0" # 첫 배포 버전
+version = "0.0.1" # 첫 배포 버전
 authors = [
     { name="limtae", email="edh427@sen.go.kr" },
 ]
